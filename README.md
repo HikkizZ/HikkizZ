@@ -34,6 +34,15 @@
 | ---            | ---           |
 | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp; ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white) |
 
+<br>
+
+## <img src="https://i.gifer.com/PYh.gif" width="25"><b> Social </b>
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmiranda.reb@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_hikki.__/)
+
+
 
 <!--
 <br>
