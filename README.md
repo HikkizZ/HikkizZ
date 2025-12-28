@@ -11,11 +11,13 @@
 ## <img src="https://i.gifer.com/XOsX.gif" width="25"><b> About Me </b>
 <br>
 
-- 💻 Passionate about software development, with a special interest in **backend**.
-- 🌐 Interested in **networking** and communication between systems.
-- 🔌 Enjoy working on electronics projects, especially with **Arduino** and other microcontrollers.
-- 🛠️ Experienced in using **boards** and various electronic components to create functional projects.
-- 🌱 Always eager to learn new things in software development, electronics, and emerging technologies.
+- 💻 Backend-oriented software engineer.  
+- 🧩 Experience building APIs with Node.js and Express.  
+- 🐍 Integration of backend services with Python logic.  
+- 🗄️ Work with relational databases (PostgreSQL, MySQL).  
+- 🔗 Interested in system communication and data-driven solutions.
+- 🔌 Enjoy working on electronics projects, especially with Arduino and other microcontrollers.  
+- 🛠️ Experience using boards and electronic components to build functional prototypes.
 
 <br>
 
