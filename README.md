@@ -10,12 +10,12 @@
 ## <img src="https://i.gifer.com/XOsX.gif" width="25"><b> About Me </b>
 <br>
 
-- 💻 Backend-oriented software engineer.  
-- 🧩 Experience building APIs with Node.js and Express.  
-- 🐍 Integration of backend services with Python logic.  
-- 🗄️ Work with relational databases (PostgreSQL, MySQL).  
-- 🔗 Interested in system communication and data-driven solutions.
-- 🔌 Enjoy working on electronics projects, especially with Arduino and other microcontrollers.  
+- 💻 Computer Engineer focused on backend development.
+- ⚙️ Building APIs with Node.js, Express and TypeScript.
+- 🐍 Integration of backend services with Python logic.
+- 🗄️ Working with PostgreSQL and relational databases.
+- 🚀 Projects deployed in production with real users.
+- 🔌 Passionate about electronics and Arduino prototyping.
 - 🛠️ Experience using boards and electronic components to build functional prototypes.
 
 <br>
